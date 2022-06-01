@@ -10,7 +10,7 @@
 * __Telegram__ [Yana Bazulka](https://t.me/yanabazulka)
 
 ## About me
-I am a highly motivated and proactive person challenging myself by a career change in Front-end Development. I strongly believe that I do utmost to be a high-quality  Front-and Engineer with excellent communicational and organizational skills.
+I am a highly motivated and proactive person challenging myself by a career change in Front-end Development. I strongly believe that I do utmost to be a high-quality  Front-and Engineer with excellent communicational and organizational skills. :)
 
 ## Skills
 * HTML
