@@ -2,11 +2,11 @@
 ___
 ##Software Testing Engineer
 ___
-###Contact information:
-Phone: +375 297534636
-E-mail: yanadru@gmail.com
-Telegram: @yanabazulka
-[LinkedIn] (https://www.linkedin.com/in/yana-bazulka/)
+###Contact information:  
+  Phone: +375 297534636   
+  E-mail: yanadru@gmail.com   
+  Telegram: @yanabazulka   
+  [LinkedIn](https://www.linkedin.com/in/yana-bazulka/)
 
 ___
 ###Briefly About Myself:
@@ -31,15 +31,15 @@ ___
 ___
 ###Experience
 
-Talenya (Paycor Company)
-Software Test Engineer
-Dec 2021 - Jun 2024
+Talenya (Paycor Company)   
+Software Test Engineer   
+Dec 2021 - Jun 2024  
 
-Timepad
-Software Test Engineer
-Jul 2024 - present
+Timepad   
+Software Test Engineer   
+Jul 2024 - present   
 
 ___
-###Languages:
-*Russian - Native
-*English - Intermediate
+###Languages:  
+*Russian - Native  
+*English - Intermediate  
